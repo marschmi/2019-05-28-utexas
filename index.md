@@ -192,7 +192,7 @@ Display the contact email address set in the configuration file.
 SURVEYS - DO NOT EDIT SURVEY LINKS 
 {% endcomment %}
 <h2 id="surveys">Surveys</h2>
-<p>Please be sure to complete these surveys before and after the workshop with the workshop id of <strong>2019-05-28-utexas<strong>.</p>
+<p>Please be sure to complete these surveys before and after the workshop with the workshop id of <strong>2019-05-28-utexas</strong>.</p>
 {% if site.carpentry == "swc" %} 
 <p><a href="{{ site.swc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
 <p><a href="{{ site.swc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
