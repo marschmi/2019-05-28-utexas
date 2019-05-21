@@ -186,12 +186,6 @@ Display the contact email address set in the configuration file.
   for more information.
 </p>
 
-<h3 id="registration">Registration & Price</h3>
-
-<p>This workshop is part of the Center for Biomedical Research Support's Annual Summer School for Big Data in Biology at the University of Texas at Austin. Therefore, please navigate to <a href="http://ccbb.utexas.edu/summerschool.html">this website</a> to register for this workshop.</p>
-<p>Please see the <a href="http://ccbb.utexas.edu/summerschool.html#payment">price of the workshop here</a>. If any questions arise, please be welcome to get in touch with the contacts above.</p> 
-
-
 <hr/>
 
 {% comment %} 
