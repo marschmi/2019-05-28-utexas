@@ -3,13 +3,13 @@ layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
                       # Be sure to update the Carpentry type in _config.yml as well.  
 venue: "University of Texas, Austin"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Parlin Hall (PAR) Room 206, 208 W 21st St, Austin, TX 78712"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "Perry-Castañeda Library (PCL), Learning Lab 3, 101 E 21st St, Austin, TX 78712"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "US"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
-latlng: "30.284902,-97.740106"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
+latlng: "30.282826,-97.738188"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "May 28-31, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "8:30am - 12:00pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2019-05-28      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+humantime: "9am - 4:30pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 2019-05-30      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-05-31        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Alice H MacQueen", "Marian L Schmidt"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Alex Nishida","Yiyuan (YY) Li", "Rob Heckman"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
